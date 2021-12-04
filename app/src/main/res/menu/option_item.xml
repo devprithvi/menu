@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/update_app"
+        android:title="Update Your App"/>
+    <item
+        android:id="@+id/contact_us"
+        android:title="Contact Us"/>
+    <item
+        android:id="@+id/rate_us"
+        android:title="Playstore Rating"/>
+    <item
+        android:id="@+id/privacy_policy"
+        android:title="Privacy And Policy"/>
+
+
+</menu>
